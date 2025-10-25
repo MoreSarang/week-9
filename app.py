@@ -6,8 +6,6 @@ from apputil import GroupEstimate
 
 st.write(
 '''
-# Week 8: Group Estimator
-
 This app demonstrates the GroupEstimate class which predicts values 
 based on categorical groupings.
 ''')
