@@ -6,7 +6,7 @@ class GroupEstimate:
     """
     A class that takes categorical data and continuous values,
     determines which group a new observation falls into, and predicts
-    an estimate value based on the provided data.
+    an estimate value based on the provided data..
     """
     
     def __init__(self, estimate):
