@@ -7,7 +7,7 @@ from apputil import GroupEstimate
 st.write(
 '''
 This app demonstrates the GroupEstimate class which predicts values 
-based on categorical groupings.
+based on categorical groupings..
 ''')
 
 # Sample data
